@@ -1,8 +1,8 @@
 # eslint-config-sf-mp
 
-![npm](https://img.shields.io/npm/v/eslint-config-sf-mp.svg?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/pengtikui/eslint-config-sf-mp.svg?style=flat-square)
-![NPM](https://img.shields.io/npm/l/eslint-config-sf-mp.svg?style=flat-square)
+[![npm](https://img.shields.io/npm/v/eslint-config-sf-mp.svg?style=flat-square)](https://www.npmjs.com/package/eslint-config-sf-mp)
+[![GitHub issues](https://img.shields.io/github/issues/pengtikui/eslint-config-sf-mp.svg?style=flat-square)](https://github.com/pengtikui/eslint-config-sf-mp/issues)
+[![NPM](https://img.shields.io/npm/l/eslint-config-sf-mp.svg?style=flat-square)](https://github.com/pengtikui/eslint-config-sf-mp/blob/master/LICENSE)
 
 SF-iTech's ESLint configuration for WeChat Mini Program
 
